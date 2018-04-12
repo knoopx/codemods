@@ -1,0 +1,17 @@
+{
+  "name": "knoopx-codemods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-builtin-module": "^2.0.0",
+    "jsonpath-object-transform": "^1.0.4",
+    "recast": "^0.14.7",
+    "thenby": "^1.2.3"
+  }
+}
